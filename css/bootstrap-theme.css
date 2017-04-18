@@ -9,7 +9,12 @@ a {
 
 a:hover {
     text-decoration: none;
+    -webkit-filter: brightness(250%);
     filter: brightness(250%);
+}
+a:hover {
+    -webkit-filter: brightness(100%);
+    filter: brightness(100%);
 }
 
 .navbar-nav {
@@ -37,6 +42,7 @@ a:hover {
 .navbar-default .navbar-nav > li > a:hover {
     background-color: #bdc3c7;
     color: #2b2b2b;
+    -webkit-filter: brightness(100%);
     filter: brightness(100%);
 }
 
