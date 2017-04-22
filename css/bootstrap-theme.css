@@ -81,3 +81,9 @@ a:hover {
     font-style: italic;
     text-align: center;
 }
+
+.thead-inverse
+{
+    background-color: #bdc3c7;
+    color: #2b2b2b;
+}

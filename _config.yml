@@ -2,5 +2,6 @@ name: PREF Framework
 description: The swiss army knife for Binary Analysis
 baseurl: ""
 
+url:  "https://pref.github.io"
 github:  "https://github.com/PREF"
 twitter: "https://twitter.com/Dax89"
