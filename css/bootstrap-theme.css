@@ -37,6 +37,7 @@ a:hover {
 .navbar-default .navbar-nav > li > a {
     background-color: #202020;
     color: #ecf0f1;
+    font-weight: bold;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
